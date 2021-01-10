@@ -1,2 +1,2 @@
 # firecode-problems
-Solutions to the problems I solved on Firecode.io
+This repository contains solutions to the problems I solved on Firecode.io.
